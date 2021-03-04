@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">StudentsReport</string>
+    <string name="ma">Results</string>
+    <string name="joa">Joash</string>
+    <string name="rob">Robert</string>
+    <string name="emy">Emily</string>
+    <string name="Joh">John</string>
+    <string name="vico">Victor</string>
+    <string name="sisi">Susan</string>
+    <string name="alex">Alex</string>
+    <string name="sh">Sheila</string>
+    <string name="mond">Monda</string>
+    <string name="eno">Enock</string>
+</resources>

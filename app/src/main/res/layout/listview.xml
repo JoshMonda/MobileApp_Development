@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00BCD4"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/sno"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="s/n"
+        android:textStyle="bold"
+
+        />
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Name"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/reg"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="RegNo"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/eng"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="English"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/math"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Maths"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/kis"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Kisw"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/chem"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Chemistry"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/phy"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Physics"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/bio"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Biology"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/hist"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="History"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/geo"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Geography"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/cr"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="CRE"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/bs"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="B/Studie"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/agri"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Agriculture"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/comp"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Computer"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/total"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_marginBottom="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Total"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/postn"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="1dp"
+        android:layout_weight="1"
+        android:padding="5dp"
+        android:text="Position"
+        android:textStyle="bold" />
+
+</LinearLayout>
